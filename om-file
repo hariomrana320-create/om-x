@@ -3,3 +3,4 @@ create file
 git init
 git add "my file"
 git commit -m "my first commit"
+hello
